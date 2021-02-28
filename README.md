@@ -4,7 +4,11 @@
  
  💼 I was a full-time software engineer for a year.
  
- 💙 Open-mind, positive, Creative, Fast learner, Motivated
+ 💙 Open-mind, Positive, Creative, Fast learner, Motivated
+ 
+ 💻 Developing with Python, Java, C++, Javascript.
+ 
+ ⛑ Learning Golang, Django, and some machine learning algorithm.
 
 [![](https://raw.githubusercontent.com/xuunnis123/Readme/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/xuunnis123/Readme/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xuunnis123/Readme/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
