@@ -1,6 +1,9 @@
 ### Hello there, this is Ezra Lin 👋
+
  🎓 I am going to study for a master's degree in 2021 Summer.
+ 
  💼 I was a full-time software engineer for a year.
+ 
  💙 Open-mind, positive, Creative, Fast learner, Motivated
 
 [![](https://raw.githubusercontent.com/xuunnis123/Readme/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
