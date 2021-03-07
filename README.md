@@ -11,6 +11,8 @@
  ⛑ Learning Golang, Django, and some machine learning algorithm.
  
  🎯 Stay hungry to make me be stronger than before.
+ 
+ ![All About Me](https://i.imgur.com/cY03j3T.png)
 
 [![](https://raw.githubusercontent.com/xuunnis123/Readme/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/xuunnis123/Readme/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xuunnis123/Readme/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
