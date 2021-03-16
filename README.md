@@ -15,7 +15,7 @@
  👇👇👇Scan here to know more👇👇👇
  
 
- ![All About Me](https://i.imgur.com/CoON4k4.png)
+ ![All About Me](https://i.imgur.com/M6SG58D.png)
 
 
 About my Github:
