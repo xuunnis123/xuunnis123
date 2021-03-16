@@ -17,6 +17,7 @@
 
  ![All About Me](https://i.imgur.com/M6SG58D.png)
 
+Link: https://linktr.ee/EzraLin1011
 
 About my Github:
 
