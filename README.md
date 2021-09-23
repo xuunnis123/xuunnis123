@@ -1,14 +1,14 @@
 ### Hello there, this is Ezra Lin 👋
 
- 🎓 I am going to study for a master's degree in 2021 Summer.
+ 🎓 I am studying for a master's degree during 2021-2023.
  
- 💼 I was a full-time software engineer for a year.
+ 💼 I had experinece for a full-time software engineer one more years.
  
  💙 Open-mind, Positive, Creative, Fast learner, Motivated
  
- 💻 Developing with Python, Java, C++, Javascript.
+ 💻 Developing with Python, Java, C++, Javascript, Django.
  
- ⛑ Learning Golang, Django, and some machine learning algorithm.
+ ⛑ Learning Golang, and some machine learning algorithm.
  
  🎯 Stay hungry to make me be stronger than before.
  
@@ -17,7 +17,7 @@
 
  ![All About Me](https://i.imgur.com/M6SG58D.png)
 
-Link: https://linktr.ee/EzraLin1011
+Link: https://xuunnis123.github.io/
 
 About my Github:
 
