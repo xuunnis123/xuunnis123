@@ -12,7 +12,7 @@
  
  🎯 Stay hungry to make me be stronger than before.
  
- 👇👇👇Scan here to know more👇👇👇
+ 👇👇👇 Know more👇👇👇
 
 
 Link to my website: https://xuunnis123.github.io/
