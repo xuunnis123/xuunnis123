@@ -13,11 +13,9 @@
  🎯 Stay hungry to make me be stronger than before.
  
  👇👇👇Scan here to know more👇👇👇
- 
 
- ![All About Me](https://i.imgur.com/M6SG58D.png)
 
-Link: https://xuunnis123.github.io/
+Link to my website: https://xuunnis123.github.io/
 
 About my Github:
 
