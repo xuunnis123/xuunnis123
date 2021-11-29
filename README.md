@@ -2,7 +2,7 @@
 
  🎓 I am studying for a master's degree during 2021-2023.
  
- 💼 I had experinece for a full-time software engineer one more years.
+ 💼 I had experice for a full-time software engineer one more years.
  
  💙 Open-mind, Positive, Creative, Fast learner, Motivated
  
