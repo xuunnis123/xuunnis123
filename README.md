@@ -1,23 +1,23 @@
 ### Hello there, this is Ezra Lin 👋
 
- 🎓 I am studying for a master's degree during 2021-2023.
+<p align="center"> 
+ [![Linkedin Badge](https://img.shields.io/badge/-Ji_Yang_Lin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-yanglin//)](https://www.linkedin.com/in/ji-yanglin/)
+[![Gmail Badge](https://img.shields.io/badge/-xuunnis123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xuunnis123@gmail.com)](mailto:xuunnis123@gmail.com)
+
+ </p>
  
- 💼 I had experience for a full-time software engineer one more years.
+ 🎓 Computer Science Student From Taiwan
  
  💙 Open-mind, Positive, Creative, Fast learner, Motivated
  
- 💻 Developing with Python, Java, C++, Javascript, Django.
- 
- ⛑ Learning Golang, and some machine learning algorithm.
- 
+ 💻 Developing with Python, Java, C++, Javascript.
+
  🎯 Stay hungry to make me be stronger than before.
  
 ### ✨ Visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuunnis123" alt="SulthanNK" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ji_Yang_Lin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-yanglin//)](https://www.linkedin.com/in/ji-yanglin/)
-[![Gmail Badge](https://img.shields.io/badge/-xuunnis123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xuunnis123@gmail.com)](mailto:xuunnis123@gmail.com)
 
 About my Github:
 
