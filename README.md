@@ -1,10 +1,10 @@
 ### Hello there, this is Ezra Lin 👋
 
-<p align="center"> 
- [![Linkedin Badge](https://img.shields.io/badge/-Ji_Yang_Lin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-yanglin//)](https://www.linkedin.com/in/ji-yanglin/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ji_Yang_Lin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-yanglin//)](https://www.linkedin.com/in/ji-yanglin/)
 [![Gmail Badge](https://img.shields.io/badge/-xuunnis123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xuunnis123@gmail.com)](mailto:xuunnis123@gmail.com)
 
- </p>
+
  
  🎓 Computer Science Student From Taiwan
  
